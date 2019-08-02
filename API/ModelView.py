@@ -24,7 +24,7 @@ prediction_app = Blueprint('/Prediction', __name__)
 
 @prediction_app.route('/', methods=['GET'])
 def hello():
-    return "Hello"
+    return "Welcome to titanic Kaggle prediction API"
 
 
 @prediction_app.route('/Prediction', methods=['POST'])
