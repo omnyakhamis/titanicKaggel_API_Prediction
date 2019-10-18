@@ -45,10 +45,10 @@ python run.py
 1. Download : https://www.getpostman.com/downloads/
 2. Sign in 
 3. The API Running on :
-    * http://0.0.0.0:5000/ - Welcom message
-    *  http://0.0.0.0:5000/health - To be sur the server is running
-    *  http://0.0.0.0:5000/train - To create, train and save a model.
-    *   http://0.0.0.0:5000/Prediction - To make prediction
+    * https://titanicapiomnya.herokuapp.com/ - Welcom message
+    *  https://titanicapiomnya.herokuapp.com/health - To be sur the server is running
+    *  https://titanicapiomnya.herokuapp.com/train - To create, train and save a model.
+    *   https://titanicapiomnya.herokuapp.com/Prediction - To make prediction
     ```
         #Exmaple data to make prediction by using postman
         {"Age": 50,"Pclass": 1, "Fare": 71.2833, "Sex": "male","Name":"Owen Harris","SibSp":0,
