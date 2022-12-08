@@ -6,7 +6,7 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-certifi = "==2019.6.16"
+certifi = "==2022.12.7"
 joblib = "==0.13.2"
 numpy = "==1.16.4"
 pandas = "==0.24.2"
